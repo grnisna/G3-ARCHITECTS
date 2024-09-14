@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    font-family: 'Work sans';
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.listItems {
+    display: flex;
+    justify-content: space-between;
+}
+.listItems li{
+    list-style: none;
+    margin-right: 20px;
+}
